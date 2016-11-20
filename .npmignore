@@ -4,6 +4,9 @@ AUTHORS
 CONTRIBUTORS
 CONTRIBUTORS.md
 bower.json
+Gruntfile.js
 screenshot.png
 
 # Folders
+examples
+docs
